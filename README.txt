@@ -5,7 +5,7 @@ Title                   : 10KB Art Pack
 Filename                : 10kb.zip
 Release date            : 2021-09-20
 Author                  : Cass "Owly" Python, Froge, et al
-Email Address           : owlman@protonmail.com
+Email Address           : owlgal69@protonmail.com
 Other Files By Author   : See my website for more: https://owly.fans
 
 Description             : A collection of art that has been seen on the
